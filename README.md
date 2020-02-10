@@ -1,7 +1,7 @@
 ## faquad-en
 Automated English Translation of FaQuAD reading comprehension dataset.
 
-Files dataset.json, dev.json, original_train.json, and train.json in data folder were translated using external api.
+Files dataset.json, dev.json, original_train.json, and train.json in data folder were translated using Google Cloud Translate API.
 
 
 
